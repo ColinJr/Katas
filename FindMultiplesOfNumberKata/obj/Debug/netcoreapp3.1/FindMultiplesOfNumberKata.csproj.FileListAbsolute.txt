@@ -1,0 +1,14 @@
+C:\Users\colin\source\repos\Katas\FindMultiplesOfNumberKata\bin\Debug\netcoreapp3.1\FindMultiplesOfNumberKata.exe
+C:\Users\colin\source\repos\Katas\FindMultiplesOfNumberKata\bin\Debug\netcoreapp3.1\FindMultiplesOfNumberKata.deps.json
+C:\Users\colin\source\repos\Katas\FindMultiplesOfNumberKata\bin\Debug\netcoreapp3.1\FindMultiplesOfNumberKata.runtimeconfig.json
+C:\Users\colin\source\repos\Katas\FindMultiplesOfNumberKata\bin\Debug\netcoreapp3.1\FindMultiplesOfNumberKata.runtimeconfig.dev.json
+C:\Users\colin\source\repos\Katas\FindMultiplesOfNumberKata\bin\Debug\netcoreapp3.1\FindMultiplesOfNumberKata.dll
+C:\Users\colin\source\repos\Katas\FindMultiplesOfNumberKata\bin\Debug\netcoreapp3.1\FindMultiplesOfNumberKata.pdb
+C:\Users\colin\source\repos\Katas\FindMultiplesOfNumberKata\obj\Debug\netcoreapp3.1\FindMultiplesOfNumberKata.csproj.AssemblyReference.cache
+C:\Users\colin\source\repos\Katas\FindMultiplesOfNumberKata\obj\Debug\netcoreapp3.1\FindMultiplesOfNumberKata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colin\source\repos\Katas\FindMultiplesOfNumberKata\obj\Debug\netcoreapp3.1\FindMultiplesOfNumberKata.AssemblyInfoInputs.cache
+C:\Users\colin\source\repos\Katas\FindMultiplesOfNumberKata\obj\Debug\netcoreapp3.1\FindMultiplesOfNumberKata.AssemblyInfo.cs
+C:\Users\colin\source\repos\Katas\FindMultiplesOfNumberKata\obj\Debug\netcoreapp3.1\FindMultiplesOfNumberKata.csproj.CoreCompileInputs.cache
+C:\Users\colin\source\repos\Katas\FindMultiplesOfNumberKata\obj\Debug\netcoreapp3.1\FindMultiplesOfNumberKata.dll
+C:\Users\colin\source\repos\Katas\FindMultiplesOfNumberKata\obj\Debug\netcoreapp3.1\FindMultiplesOfNumberKata.pdb
+C:\Users\colin\source\repos\Katas\FindMultiplesOfNumberKata\obj\Debug\netcoreapp3.1\FindMultiplesOfNumberKata.genruntimeconfig.cache
