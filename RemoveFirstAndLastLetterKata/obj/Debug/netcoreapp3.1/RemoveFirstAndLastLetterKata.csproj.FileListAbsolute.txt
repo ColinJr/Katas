@@ -1,0 +1,14 @@
+C:\Users\colin\source\repos\Katas\RemoveFirstAndLastLetterKata\bin\Debug\netcoreapp3.1\RemoveFirstAndLastLetterKata.exe
+C:\Users\colin\source\repos\Katas\RemoveFirstAndLastLetterKata\bin\Debug\netcoreapp3.1\RemoveFirstAndLastLetterKata.deps.json
+C:\Users\colin\source\repos\Katas\RemoveFirstAndLastLetterKata\bin\Debug\netcoreapp3.1\RemoveFirstAndLastLetterKata.runtimeconfig.json
+C:\Users\colin\source\repos\Katas\RemoveFirstAndLastLetterKata\bin\Debug\netcoreapp3.1\RemoveFirstAndLastLetterKata.runtimeconfig.dev.json
+C:\Users\colin\source\repos\Katas\RemoveFirstAndLastLetterKata\bin\Debug\netcoreapp3.1\RemoveFirstAndLastLetterKata.dll
+C:\Users\colin\source\repos\Katas\RemoveFirstAndLastLetterKata\bin\Debug\netcoreapp3.1\RemoveFirstAndLastLetterKata.pdb
+C:\Users\colin\source\repos\Katas\RemoveFirstAndLastLetterKata\obj\Debug\netcoreapp3.1\RemoveFirstAndLastLetterKata.csproj.AssemblyReference.cache
+C:\Users\colin\source\repos\Katas\RemoveFirstAndLastLetterKata\obj\Debug\netcoreapp3.1\RemoveFirstAndLastLetterKata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colin\source\repos\Katas\RemoveFirstAndLastLetterKata\obj\Debug\netcoreapp3.1\RemoveFirstAndLastLetterKata.AssemblyInfoInputs.cache
+C:\Users\colin\source\repos\Katas\RemoveFirstAndLastLetterKata\obj\Debug\netcoreapp3.1\RemoveFirstAndLastLetterKata.AssemblyInfo.cs
+C:\Users\colin\source\repos\Katas\RemoveFirstAndLastLetterKata\obj\Debug\netcoreapp3.1\RemoveFirstAndLastLetterKata.csproj.CoreCompileInputs.cache
+C:\Users\colin\source\repos\Katas\RemoveFirstAndLastLetterKata\obj\Debug\netcoreapp3.1\RemoveFirstAndLastLetterKata.dll
+C:\Users\colin\source\repos\Katas\RemoveFirstAndLastLetterKata\obj\Debug\netcoreapp3.1\RemoveFirstAndLastLetterKata.pdb
+C:\Users\colin\source\repos\Katas\RemoveFirstAndLastLetterKata\obj\Debug\netcoreapp3.1\RemoveFirstAndLastLetterKata.genruntimeconfig.cache

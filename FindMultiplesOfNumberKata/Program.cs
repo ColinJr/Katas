@@ -28,4 +28,3 @@ namespace FindMultiplesOfNumberKata
         }
     }
 }
-//Assert.AreEqual(new List<int> { 5, 10, 15, 20, 25 }, Kata.FindMultiples(5, 25));
