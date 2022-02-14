@@ -15,10 +15,7 @@ namespace TenIntsToCellPhoneStringKata
         public static string NumArrayToString(int[] nums)
         {
             string numstring = String.Join("", new List<int>(nums).ConvertAll(i => i.ToString()).ToArray());
-            string a = "(" + numstring.Substring(0, 3) + ") ";
-            string b = numstring.Substring(3, 3) + "-";
-            string c = numstring.Substring(6, 4);
-            return a + b + c;
+            return "(" + numstring.Substring(0, 3) + ") " + numstring.Substring(3, 3) + "-" + numstring.Substring(6, 4);
         }
     }
 }
