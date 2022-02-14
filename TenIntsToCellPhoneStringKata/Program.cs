@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace TenIntsToCellPhoneStringKata
 {
@@ -13,7 +14,14 @@ namespace TenIntsToCellPhoneStringKata
         }
         public static string NumArrayToString(int[] nums)
         {
-            return nums.ToString();
+            string numstring = String.Join("", new List<int>(nums).ConvertAll(i => i.ToString()).ToArray());
+            string a = numstring.Substring(0, 3);
+            string b = numstring.Substring(3, 3);
+            string c = numstring.Substring(6, 4);
+            Console.WriteLine("string a is " + a);
+            Console.WriteLine("string b is " + b);
+            Console.WriteLine("string c is " + c);
+            return numstring;
         }
     }
 }
