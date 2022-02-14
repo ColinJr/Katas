@@ -12,11 +12,9 @@ namespace RemoveFirstAndLastLetterKata
             Console.WriteLine(RemoveFirstAndLast("person"));
             Console.WriteLine(RemoveFirstAndLast("OK"));
         }
-        public static string RemoveFirstAndLast(string word)
+        public static string RemoveFirstAndLast(string s)
         {
-            string result = word;
-            result = result.Remove(result.Length - 1, 1).Remove(0, 1);
-            return result;
+            return s.Remove(s.Length - 1, 1).Remove(0, 1);
         }
     }
 }
